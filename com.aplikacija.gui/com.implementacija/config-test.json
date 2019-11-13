@@ -1,0 +1,14 @@
+{	
+	"rootName": "Marko",
+	"rootPath": "F:/",
+	"loggedUser": {
+		"firstname": "",
+		"lastname": "",
+		"index": "",
+		"group": ""
+	},
+	"token": "Va2TEZXRO_AAAAAAAAAAEepLfap8C4UdOIO0OBsS8YNLq9x1B1CqkjDH5N--EyE0",
+	"bannedExtension": "",
+	"storage": "LOCAL",
+	"fileName" : "nameFromJson"
+}
